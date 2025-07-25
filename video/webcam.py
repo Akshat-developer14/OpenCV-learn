@@ -10,7 +10,7 @@ while True:
         break
 
     # Define text parameters
-    text = "Hello, OpenCV!"
+    text = "Bonjour, OpenCV et Python!"
     position = (50, 50)  # x, y coordinates
     font = cv2.FONT_HERSHEY_SIMPLEX
     font_scale = 1
